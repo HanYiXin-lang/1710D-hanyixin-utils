@@ -18,7 +18,7 @@ public class DateUtil {
 		//新的日期
 		String s2 = string.substring(0, 8)+"-01 00:00:00";
 		System.out.println("s2 "+s2);
-		
+		//返回结果
 		return format.parse(s2);
 		
 	}

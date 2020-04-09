@@ -3,6 +3,7 @@ package com.hanyixin.common.utils;
 import java.io.File;
 import java.io.InputStream;
 
+//处理流工具类
 public class StreamUtil {
 
 	
